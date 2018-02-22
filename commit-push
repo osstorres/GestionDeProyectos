@@ -1,0 +1,10 @@
+si no has iniciado sesion:
+git config --global user.email "tu email"
+git config --global user.user "tu user"
+
+para subir cambios
+1. git add .
+2. git commit -m "comentario que quieras hacer"
+3. git checkout -b nombrequequieras
+4.git push origin nombrequequieras:nombrequequieras2
+5 . por tu user y contrasena
